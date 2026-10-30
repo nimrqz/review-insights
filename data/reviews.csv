@@ -1,0 +1,401 @@
+review,sentiment,topic,date
+"Olha, Chegou muito antes do prazo.",positive,entrega,2026-01-15
+Resumindo: Atrasou duas semanas e ninguém avisou. Pretendo comprar de novo.,negative,entrega,2026-01-15
+"Recebi no dia seguinte, adorei. Pretendo comprar de novo.",positive,entrega,2026-01-15
+"Sinceramente, App sem novidades nesta versão. Recomendo.",neutral,app,2026-01-15
+Entrega absurdamente demorada. No geral é isso.,negative,entrega,2026-01-15
+"Olha, Preço excelente pelo que entrega.",positive,preço,2026-01-15
+"Resumindo: Material fraco, parece de brinquedo. Foi minha experiência.",neutral,qualidade,2026-01-15
+"Sinceramente, O app é rápido e intuitivo. Pretendo comprar de novo.",positive,app,2026-01-15
+"Olha, Não consigo logar no app de jeito nenhum.",negative,app,2026-01-15
+"Olha, Atrasou duas semanas e ninguém avisou. Foi minha experiência.",negative,entrega,2026-01-15
+"Sinceramente, Recebi no dia seguinte, adorei. Foi minha experiência.",positive,entrega,2026-01-15
+"Olha, Muito bem feito e resistente. Fica o registro.",positive,qualidade,2026-01-15
+Resumindo: Não consigo logar no app de jeito nenhum.,negative,app,2026-01-15
+"Resumindo: Atendimento nota dez, resolveram na hora. Fica o registro.",positive,atendimento,2026-01-15
+Entrega rápida e embalagem perfeita. No geral é isso.,positive,entrega,2026-01-15
+Resumindo: Paguei muito e esperava mais. Recomendo.,negative,preço,2026-01-15
+"Sinceramente, Atendimento nota dez, resolveram na hora. Recomendo.",positive,atendimento,2026-01-15
+"Resumindo: Aplicativo simples, faz o que promete. Pretendo comprar de novo.",neutral,app,2026-01-15
+Paguei muito e esperava mais. No geral é isso.,negative,preço,2026-01-15
+Entrega absurdamente demorada.,negative,entrega,2026-01-15
+"Sinceramente, O suporte respondeu em um dia útil. Pretendo comprar de novo.",neutral,atendimento,2026-01-15
+Resumindo: O app é rápido e intuitivo. Fica o registro.,positive,app,2026-01-15
+"Olha, O app trava toda hora. Recomendo.",negative,app,2026-01-15
+"Olha, O suporte foi super atencioso. Foi minha experiência.",positive,atendimento,2026-01-15
+"Olha, Entrega absurdamente demorada. Pretendo comprar de novo.",negative,entrega,2026-01-15
+"Valeu cada centavo, ótimo custo-benefício. Foi minha experiência.",positive,preço,2026-01-15
+"Sinceramente, A entrega ocorreu dentro do prazo informado.",neutral,entrega,2026-01-15
+Muito bem feito e resistente.,positive,qualidade,2026-01-15
+"Resumindo: Atendimento horrível, ninguém resolve nada.",negative,atendimento,2026-01-15
+Resumindo: Adorei a nova versão do app. No geral é isso.,positive,app,2026-01-15
+Não consigo logar no app de jeito nenhum. Recomendo.,negative,app,2026-01-15
+"Resumindo: Qualidade mediana, cumpre o básico.",neutral,qualidade,2026-01-15
+"Resumindo: Recebi no dia seguinte, adorei.",positive,entrega,2026-01-15
+Chegou muito antes do prazo.,positive,entrega,2026-01-15
+Acabamento impecável. Fica o registro.,positive,qualidade,2026-02-15
+Resumindo: Adorei a nova versão do app. No geral é isso.,positive,app,2026-02-15
+"Atendimento horrível, ninguém resolve nada.",negative,atendimento,2026-02-15
+"Sinceramente, Produto comum, funciona.",neutral,qualidade,2026-02-15
+"Olha, Chegou muito antes do prazo.",positive,entrega,2026-02-15
+"Sinceramente, O app funciona, interface comum. Recomendo.",neutral,app,2026-02-15
+Resumindo: A entrega ocorreu dentro do prazo informado.,neutral,entrega,2026-02-15
+O app trava toda hora.,negative,app,2026-02-15
+"Sinceramente, Atendimento nota dez, resolveram na hora.",positive,atendimento,2026-02-15
+"Sinceramente, Equipe educada e prestativa. No geral é isso.",positive,atendimento,2026-02-15
+"Sinceramente, O app trava toda hora.",negative,app,2026-02-15
+Resumindo: A entrega ocorreu dentro do prazo informado. Fica o registro.,neutral,entrega,2026-02-15
+"Resumindo: Entrega normal, sem novidades.",neutral,entrega,2026-02-15
+O app é rápido e intuitivo. Pretendo comprar de novo.,positive,app,2026-02-15
+Resumindo: O preço está na média do mercado. Pretendo comprar de novo.,neutral,preço,2026-02-15
+Resumindo: Adorei a nova versão do app. Pretendo comprar de novo.,positive,app,2026-02-15
+"Olha, Produto de ótima qualidade, superou expectativas. Recomendo.",positive,qualidade,2026-02-15
+O produto é como na descrição. No geral é isso.,neutral,qualidade,2026-02-15
+Não consigo logar no app de jeito nenhum.,negative,app,2026-02-15
+Caro demais para o que oferece. Recomendo.,negative,preço,2026-02-15
+"Olha, Atendentes grosseiros e despreparados. Foi minha experiência.",negative,atendimento,2026-02-15
+Resumindo: Veio com a caixa toda amassada. Fica o registro.,negative,entrega,2026-02-15
+"Valeu cada centavo, ótimo custo-benefício. Pretendo comprar de novo.",positive,preço,2026-02-15
+"Olha, Quebrou na primeira semana. Fica o registro.",negative,qualidade,2026-02-15
+"Olha, O produto é como na descrição.",neutral,qualidade,2026-02-15
+"Olha, Produto de ótima qualidade, superou expectativas. Fica o registro.",positive,qualidade,2026-02-15
+Resumindo: Paguei muito e esperava mais. No geral é isso.,negative,preço,2026-02-15
+"Recebi no dia seguinte, adorei.",positive,entrega,2026-02-15
+"Sinceramente, O app funciona, interface comum.",neutral,app,2026-02-15
+Entrega absurdamente demorada.,negative,entrega,2026-02-15
+"Sinceramente, Qualidade péssima, veio com defeito. Fica o registro.",negative,qualidade,2026-02-15
+"Preço abusivo, não compensa.",negative,preço,2026-02-15
+"Sinceramente, Qualidade péssima, veio com defeito. Foi minha experiência.",negative,qualidade,2026-02-15
+Muito barato para a qualidade. Foi minha experiência.,neutral,preço,2026-03-15
+"Sinceramente, Muito barato para a qualidade. Recomendo.",positive,preço,2026-03-15
+Muito barato para a qualidade. Recomendo.,positive,preço,2026-03-15
+"Olha, Veio com a caixa toda amassada. Fica o registro.",negative,entrega,2026-03-15
+O app é rápido e intuitivo. Recomendo.,positive,app,2026-03-15
+Resumindo: Acabamento impecável. Recomendo.,positive,qualidade,2026-03-15
+Resumindo: O produto é como na descrição. No geral é isso.,neutral,qualidade,2026-03-15
+"Sinceramente, Preço excelente pelo que entrega. Pretendo comprar de novo.",positive,preço,2026-03-15
+Aplicativo lento e cheio de bugs. No geral é isso.,negative,app,2026-03-15
+"Qualidade péssima, veio com defeito. Recomendo.",negative,qualidade,2026-03-15
+"Olha, O suporte foi super atencioso.",positive,atendimento,2026-03-15
+Atendentes grosseiros e despreparados. Pretendo comprar de novo.,negative,atendimento,2026-03-15
+"Olha, Aplicativo lento e cheio de bugs.",negative,app,2026-03-15
+"Olha, Aplicativo lento e cheio de bugs. No geral é isso.",negative,app,2026-03-15
+Preço igual ao das outras lojas.,neutral,preço,2026-03-15
+Adorei a nova versão do app. Recomendo.,positive,app,2026-03-15
+Preço excelente pelo que entrega. No geral é isso.,positive,preço,2026-03-15
+Resumindo: A entrega ocorreu dentro do prazo informado. Fica o registro.,neutral,entrega,2026-03-15
+O suporte foi super atencioso. Fica o registro.,positive,atendimento,2026-03-15
+Resumindo: Equipe educada e prestativa.,positive,atendimento,2026-03-15
+"Sinceramente, Entrega normal, sem novidades. Pretendo comprar de novo.",neutral,entrega,2026-03-15
+"Sinceramente, Adorei a nova versão do app. Foi minha experiência.",positive,app,2026-03-15
+"Resumindo: Aplicativo simples, faz o que promete.",neutral,app,2026-03-15
+Atendimento padrão. Recomendo.,neutral,atendimento,2026-03-15
+"Aplicativo simples, faz o que promete. No geral é isso.",neutral,app,2026-03-15
+"Olha, Acabamento impecável. Pretendo comprar de novo.",positive,qualidade,2026-03-15
+"Valeu cada centavo, ótimo custo-benefício.",positive,preço,2026-03-15
+"Sinceramente, Equipe educada e prestativa.",positive,atendimento,2026-03-15
+Resumindo: O suporte foi super atencioso.,positive,atendimento,2026-03-15
+Aplicativo muito fácil de usar. Recomendo.,positive,app,2026-03-15
+Resumindo: Atendimento padrão.,neutral,atendimento,2026-03-15
+"Qualidade mediana, cumpre o básico. Recomendo.",neutral,qualidade,2026-03-15
+"Sinceramente, Atendimento horrível, ninguém resolve nada. Pretendo comprar de novo.",negative,atendimento,2026-03-15
+"Fui atendido, sem problemas nem elogios. Fica o registro.",neutral,atendimento,2026-04-15
+"Olha, Equipe educada e prestativa. Recomendo.",positive,atendimento,2026-04-15
+"Sinceramente, Acabamento impecável. Foi minha experiência.",positive,qualidade,2026-04-15
+Equipe educada e prestativa.,positive,atendimento,2026-04-15
+"Olha, Atrasou duas semanas e ninguém avisou. Fica o registro.",negative,entrega,2026-04-15
+Atrasou duas semanas e ninguém avisou. Foi minha experiência.,positive,entrega,2026-04-15
+"Valeu cada centavo, ótimo custo-benefício.",positive,preço,2026-04-15
+"Qualidade péssima, veio com defeito. Pretendo comprar de novo.",negative,qualidade,2026-04-15
+Veio com a caixa toda amassada.,negative,entrega,2026-04-15
+"Sinceramente, Qualidade mediana, cumpre o básico. Fica o registro.",neutral,qualidade,2026-04-15
+O app trava toda hora. Fica o registro.,negative,app,2026-04-15
+Resumindo: O app trava toda hora. Recomendo.,negative,app,2026-04-15
+"Olha, Produto de ótima qualidade, superou expectativas. Foi minha experiência.",positive,qualidade,2026-04-15
+"Olha, O suporte foi super atencioso. Foi minha experiência.",positive,atendimento,2026-04-15
+Resumindo: Preço igual ao das outras lojas. Recomendo.,neutral,preço,2026-04-15
+"Sinceramente, Aplicativo lento e cheio de bugs. Foi minha experiência.",negative,app,2026-04-15
+"Produto de ótima qualidade, superou expectativas. Recomendo.",positive,qualidade,2026-04-15
+Resumindo: Paguei muito e esperava mais. Fica o registro.,negative,preço,2026-04-15
+"Olha, A entrega ocorreu dentro do prazo informado. No geral é isso.",neutral,entrega,2026-04-15
+Resumindo: Muito bem feito e resistente. Recomendo.,positive,qualidade,2026-04-15
+O app trava toda hora. Fica o registro.,negative,app,2026-04-15
+"Sinceramente, Não consigo logar no app de jeito nenhum. Fica o registro.",negative,app,2026-04-15
+Entrega rápida e embalagem perfeita. Fica o registro.,positive,entrega,2026-04-15
+Resumindo: Adorei a nova versão do app. Recomendo.,positive,app,2026-04-15
+"Sinceramente, Aplicativo muito fácil de usar. Recomendo.",positive,app,2026-04-15
+"Olha, Atrasou duas semanas e ninguém avisou. Fica o registro.",negative,entrega,2026-04-15
+"Sinceramente, Muito barato para a qualidade. Fica o registro.",positive,preço,2026-04-15
+"O app funciona, interface comum. Recomendo.",neutral,app,2026-04-15
+Resumindo: Preço excelente pelo que entrega. Recomendo.,positive,preço,2026-04-15
+Adorei a nova versão do app. Foi minha experiência.,positive,app,2026-04-15
+Resumindo: Veio com a caixa toda amassada. No geral é isso.,negative,entrega,2026-04-15
+Acabamento impecável. Foi minha experiência.,positive,qualidade,2026-04-15
+"Entrega normal, sem novidades. Fica o registro.",neutral,entrega,2026-04-15
+Resumindo: Muito barato para a qualidade.,positive,preço,2026-04-15
+"Sinceramente, Entrega normal, sem novidades. Pretendo comprar de novo.",neutral,entrega,2026-05-15
+"Sinceramente, Preço abusivo, não compensa. No geral é isso.",negative,preço,2026-05-15
+"Olha, Não consigo logar no app de jeito nenhum. Pretendo comprar de novo.",negative,app,2026-05-15
+Entrega absurdamente demorada.,negative,entrega,2026-05-15
+"Recebi no dia seguinte, adorei.",positive,entrega,2026-05-15
+Resumindo: O suporte respondeu em um dia útil. Recomendo.,neutral,atendimento,2026-05-15
+"Sinceramente, Quebrou na primeira semana. Fica o registro.",negative,qualidade,2026-05-15
+"Resumindo: Qualidade péssima, veio com defeito. Foi minha experiência.",negative,qualidade,2026-05-15
+O suporte foi super atencioso.,positive,atendimento,2026-05-15
+Muito barato para a qualidade. Pretendo comprar de novo.,positive,preço,2026-05-15
+"Sinceramente, O app trava toda hora. No geral é isso.",negative,app,2026-05-15
+Resumindo: Atendentes grosseiros e despreparados. No geral é isso.,negative,atendimento,2026-05-15
+"Sinceramente, Adorei a nova versão do app. Recomendo.",positive,app,2026-05-15
+"Resumindo: Recebi no dia seguinte, adorei.",positive,entrega,2026-05-15
+"Qualidade mediana, cumpre o básico. Pretendo comprar de novo.",neutral,qualidade,2026-05-15
+Resumindo: Acabamento impecável. Fica o registro.,positive,qualidade,2026-05-15
+"Sinceramente, Chegou na data prevista. Recomendo.",neutral,entrega,2026-05-15
+"Sinceramente, Muito barato para a qualidade. Fica o registro.",positive,preço,2026-05-15
+Aplicativo muito fácil de usar. Recomendo.,positive,app,2026-05-15
+Atendentes grosseiros e despreparados. Foi minha experiência.,negative,atendimento,2026-05-15
+Resumindo: Equipe educada e prestativa. Pretendo comprar de novo.,positive,atendimento,2026-05-15
+Fui ignorado pelo suporte por dias. Pretendo comprar de novo.,negative,atendimento,2026-05-15
+"Sinceramente, O produto é como na descrição.",neutral,qualidade,2026-05-15
+Aplicativo lento e cheio de bugs. Pretendo comprar de novo.,neutral,app,2026-05-15
+Entrega rápida e embalagem perfeita.,positive,entrega,2026-05-15
+"Olha, Preço igual ao das outras lojas. Fica o registro.",neutral,preço,2026-05-15
+Fui ignorado pelo suporte por dias. Pretendo comprar de novo.,negative,atendimento,2026-05-15
+Resumindo: Paguei muito e esperava mais.,negative,preço,2026-05-15
+"Sinceramente, Material fraco, parece de brinquedo. Foi minha experiência.",negative,qualidade,2026-05-15
+"Olha, Recebi no dia seguinte, adorei. Pretendo comprar de novo.",positive,entrega,2026-05-15
+"Sinceramente, Atendentes grosseiros e despreparados. No geral é isso.",negative,atendimento,2026-05-15
+"Sinceramente, Aplicativo lento e cheio de bugs. Recomendo.",negative,app,2026-05-15
+"Valor razoável, nada demais.",neutral,preço,2026-05-15
+"Sinceramente, Fui ignorado pelo suporte por dias. Fica o registro.",negative,atendimento,2026-06-15
+O preço está na média do mercado. Pretendo comprar de novo.,neutral,preço,2026-06-15
+"Sinceramente, Quebrou na primeira semana. Pretendo comprar de novo.",negative,qualidade,2026-06-15
+"Sinceramente, Entrega absurdamente demorada.",negative,entrega,2026-06-15
+"Sinceramente, Muito bem feito e resistente.",positive,qualidade,2026-06-15
+"Olha, Adorei a nova versão do app. Fica o registro.",positive,app,2026-06-15
+Atendentes grosseiros e despreparados.,negative,atendimento,2026-06-15
+"Material fraco, parece de brinquedo.",negative,qualidade,2026-06-15
+"Olha, A entrega ocorreu dentro do prazo informado.",neutral,entrega,2026-06-15
+"Olha, Entrega rápida e embalagem perfeita.",positive,entrega,2026-06-15
+"Fui atendido, sem problemas nem elogios.",neutral,atendimento,2026-06-15
+Fui ignorado pelo suporte por dias. Pretendo comprar de novo.,negative,atendimento,2026-06-15
+"Sinceramente, Fui ignorado pelo suporte por dias. Fica o registro.",neutral,atendimento,2026-06-15
+Quebrou na primeira semana. No geral é isso.,negative,qualidade,2026-06-15
+"Sinceramente, Adorei a nova versão do app. Recomendo.",positive,app,2026-06-15
+"Sinceramente, Acabamento impecável.",positive,qualidade,2026-06-15
+"Olha, Adorei a nova versão do app. Recomendo.",negative,app,2026-06-15
+Resumindo: O suporte foi super atencioso. Foi minha experiência.,positive,atendimento,2026-06-15
+"Sinceramente, Veio com a caixa toda amassada. Foi minha experiência.",negative,entrega,2026-06-15
+Não consigo logar no app de jeito nenhum.,negative,app,2026-06-15
+"Preço abusivo, não compensa. Foi minha experiência.",negative,preço,2026-06-15
+O app é rápido e intuitivo. Recomendo.,positive,app,2026-06-15
+O suporte foi super atencioso. Recomendo.,positive,atendimento,2026-06-15
+"Olha, Material fraco, parece de brinquedo. Foi minha experiência.",negative,qualidade,2026-06-15
+"Sinceramente, Quebrou na primeira semana.",negative,qualidade,2026-06-15
+"Sinceramente, Paguei muito e esperava mais. Recomendo.",negative,preço,2026-06-15
+"Resumindo: Atendimento nota dez, resolveram na hora. No geral é isso.",positive,atendimento,2026-06-15
+"Olha, O produto é como na descrição. Fica o registro.",neutral,qualidade,2026-06-15
+Resumindo: Veio com a caixa toda amassada. Pretendo comprar de novo.,negative,entrega,2026-06-15
+"Sinceramente, Entrega absurdamente demorada. Recomendo.",negative,entrega,2026-06-15
+Entrega rápida e embalagem perfeita. No geral é isso.,positive,entrega,2026-06-15
+"Preço abusivo, não compensa. No geral é isso.",negative,preço,2026-06-15
+"Aplicativo simples, faz o que promete. Fica o registro.",neutral,app,2026-06-15
+"Olha, Atendimento horrível, ninguém resolve nada. Fica o registro.",negative,atendimento,2026-07-15
+O suporte respondeu em um dia útil.,neutral,atendimento,2026-07-15
+"Olha, O produto é como na descrição. No geral é isso.",neutral,qualidade,2026-07-15
+"Sinceramente, Atrasou duas semanas e ninguém avisou. Fica o registro.",negative,entrega,2026-07-15
+Aplicativo lento e cheio de bugs.,negative,app,2026-07-15
+Resumindo: O app é rápido e intuitivo. Pretendo comprar de novo.,positive,app,2026-07-15
+"Valeu cada centavo, ótimo custo-benefício.",positive,preço,2026-07-15
+"Resumindo: Preço abusivo, não compensa. Foi minha experiência.",negative,preço,2026-07-15
+"Olha, Chegou muito antes do prazo. Pretendo comprar de novo.",positive,entrega,2026-07-15
+"Valeu cada centavo, ótimo custo-benefício. No geral é isso.",positive,preço,2026-07-15
+"Olha, Entrega normal, sem novidades. Pretendo comprar de novo.",neutral,entrega,2026-07-15
+Resumindo: O app é rápido e intuitivo. Fica o registro.,positive,app,2026-07-15
+O app é rápido e intuitivo. No geral é isso.,positive,app,2026-07-15
+"Sinceramente, Atendentes grosseiros e despreparados. No geral é isso.",negative,atendimento,2026-07-15
+Chegou muito antes do prazo.,positive,entrega,2026-07-15
+"Olha, Aplicativo simples, faz o que promete. Pretendo comprar de novo.",neutral,app,2026-07-15
+"Sinceramente, Fui atendido, sem problemas nem elogios. Foi minha experiência.",neutral,atendimento,2026-07-15
+Aplicativo lento e cheio de bugs. No geral é isso.,negative,app,2026-07-15
+"Sinceramente, Equipe educada e prestativa. No geral é isso.",positive,atendimento,2026-07-15
+"Olha, Qualidade mediana, cumpre o básico.",neutral,qualidade,2026-07-15
+"Atendimento nota dez, resolveram na hora. No geral é isso.",positive,atendimento,2026-07-15
+Resumindo: Quebrou na primeira semana. Pretendo comprar de novo.,negative,qualidade,2026-07-15
+Aplicativo muito fácil de usar. Recomendo.,positive,app,2026-07-15
+Fui ignorado pelo suporte por dias. Pretendo comprar de novo.,negative,atendimento,2026-07-15
+A entrega ocorreu dentro do prazo informado. Fica o registro.,neutral,entrega,2026-07-15
+Resumindo: Entrega rápida e embalagem perfeita.,positive,entrega,2026-07-15
+"Sinceramente, Adorei a nova versão do app. Foi minha experiência.",positive,app,2026-07-15
+Resumindo: O app trava toda hora. Pretendo comprar de novo.,negative,app,2026-07-15
+"Olha, Muito bem feito e resistente. Foi minha experiência.",positive,qualidade,2026-07-15
+"Produto de ótima qualidade, superou expectativas. Pretendo comprar de novo.",positive,qualidade,2026-07-15
+Chegou muito antes do prazo. Fica o registro.,positive,entrega,2026-07-15
+"Olha, Fui atendido, sem problemas nem elogios. Recomendo.",neutral,atendimento,2026-07-15
+"Resumindo: Qualidade péssima, veio com defeito.",negative,qualidade,2026-07-15
+Resumindo: Preço excelente pelo que entrega. Fica o registro.,positive,preço,2026-07-15
+"Sinceramente, Atendentes grosseiros e despreparados. No geral é isso.",negative,atendimento,2026-08-15
+"Preço abusivo, não compensa. No geral é isso.",negative,preço,2026-08-15
+"Olha, O app funciona, interface comum.",neutral,app,2026-08-15
+Aplicativo muito fácil de usar.,positive,app,2026-08-15
+"Produto de ótima qualidade, superou expectativas. No geral é isso.",positive,qualidade,2026-08-15
+"Resumindo: Valeu cada centavo, ótimo custo-benefício.",positive,preço,2026-08-15
+Acabamento impecável.,positive,qualidade,2026-08-15
+Resumindo: Veio com a caixa toda amassada. Pretendo comprar de novo.,negative,entrega,2026-08-15
+"Sinceramente, Atendimento nota dez, resolveram na hora. Recomendo.",positive,atendimento,2026-08-15
+"Olha, O app funciona, interface comum. No geral é isso.",neutral,app,2026-08-15
+"Sinceramente, Preço igual ao das outras lojas.",neutral,preço,2026-08-15
+"Material fraco, parece de brinquedo. Foi minha experiência.",negative,qualidade,2026-08-15
+Resumindo: Não consigo logar no app de jeito nenhum.,negative,app,2026-08-15
+"Produto de ótima qualidade, superou expectativas.",positive,qualidade,2026-08-15
+"Valeu cada centavo, ótimo custo-benefício.",positive,preço,2026-08-15
+Resumindo: Atendimento padrão. No geral é isso.,neutral,atendimento,2026-08-15
+Resumindo: Aplicativo lento e cheio de bugs. Foi minha experiência.,negative,app,2026-08-15
+Acabamento impecável. No geral é isso.,positive,qualidade,2026-08-15
+"Olha, Produto comum, funciona.",neutral,qualidade,2026-08-15
+"Olha, Equipe educada e prestativa.",positive,atendimento,2026-08-15
+Resumindo: Veio com a caixa toda amassada. No geral é isso.,negative,entrega,2026-08-15
+"Resumindo: Entrega normal, sem novidades.",neutral,entrega,2026-08-15
+O suporte respondeu em um dia útil.,neutral,atendimento,2026-08-15
+"Qualidade péssima, veio com defeito. Fica o registro.",negative,qualidade,2026-08-15
+"Sinceramente, Paguei muito e esperava mais. Pretendo comprar de novo.",negative,preço,2026-08-15
+"Olha, Acabamento impecável. No geral é isso.",positive,qualidade,2026-08-15
+"Olha, O app é rápido e intuitivo. Recomendo.",positive,app,2026-08-15
+"Resumindo: Atendimento nota dez, resolveram na hora. Recomendo.",positive,atendimento,2026-08-15
+"Olha, Paguei muito e esperava mais. Fica o registro.",negative,preço,2026-08-15
+"Valor razoável, nada demais. Pretendo comprar de novo.",neutral,preço,2026-08-15
+Resumindo: Quebrou na primeira semana. Fica o registro.,negative,qualidade,2026-08-15
+"Olha, Aplicativo muito fácil de usar.",positive,app,2026-08-15
+"Sinceramente, Quebrou na primeira semana.",negative,qualidade,2026-08-15
+"Valeu cada centavo, ótimo custo-benefício. Foi minha experiência.",positive,preço,2026-09-15
+"Olha, Adorei a nova versão do app.",positive,app,2026-09-15
+Resumindo: Preço excelente pelo que entrega. Fica o registro.,positive,preço,2026-09-15
+Equipe educada e prestativa. Pretendo comprar de novo.,positive,atendimento,2026-09-15
+Equipe educada e prestativa. Foi minha experiência.,positive,atendimento,2026-09-15
+Resumindo: Muito barato para a qualidade. No geral é isso.,positive,preço,2026-09-15
+"Sinceramente, Fui atendido, sem problemas nem elogios. Foi minha experiência.",neutral,atendimento,2026-09-15
+"Olha, O app é rápido e intuitivo. Fica o registro.",positive,app,2026-09-15
+"Produto comum, funciona. Foi minha experiência.",neutral,qualidade,2026-09-15
+Entrega rápida e embalagem perfeita. No geral é isso.,positive,entrega,2026-09-15
+Caro demais para o que oferece. Foi minha experiência.,negative,preço,2026-09-15
+"Sinceramente, Quebrou na primeira semana. No geral é isso.",negative,qualidade,2026-09-15
+Muito barato para a qualidade.,positive,preço,2026-09-15
+Quebrou na primeira semana. Recomendo.,negative,qualidade,2026-09-15
+Atendentes grosseiros e despreparados. No geral é isso.,negative,atendimento,2026-09-15
+Veio com a caixa toda amassada.,negative,entrega,2026-09-15
+Resumindo: Não consigo logar no app de jeito nenhum. No geral é isso.,negative,app,2026-09-15
+"Produto de ótima qualidade, superou expectativas.",positive,qualidade,2026-09-15
+"Aplicativo simples, faz o que promete. Pretendo comprar de novo.",neutral,app,2026-09-15
+"Aplicativo simples, faz o que promete. No geral é isso.",neutral,app,2026-09-15
+Preço igual ao das outras lojas. Fica o registro.,neutral,preço,2026-09-15
+Resumindo: Muito bem feito e resistente. Pretendo comprar de novo.,positive,qualidade,2026-09-15
+"Sinceramente, Aplicativo simples, faz o que promete.",neutral,app,2026-09-15
+Acabamento impecável. Foi minha experiência.,positive,qualidade,2026-09-15
+Paguei muito e esperava mais. Fica o registro.,negative,preço,2026-09-15
+Resumindo: Muito barato para a qualidade. Foi minha experiência.,positive,preço,2026-09-15
+"Sinceramente, Atendentes grosseiros e despreparados.",negative,atendimento,2026-09-15
+"Sinceramente, Atrasou duas semanas e ninguém avisou. Recomendo.",negative,entrega,2026-09-15
+"Olha, Preço abusivo, não compensa. Pretendo comprar de novo.",negative,preço,2026-09-15
+App sem novidades nesta versão.,neutral,app,2026-09-15
+"Olha, Veio com a caixa toda amassada.",negative,entrega,2026-09-15
+"Sinceramente, Fui ignorado pelo suporte por dias. Recomendo.",negative,atendimento,2026-09-15
+"Olha, Atendentes grosseiros e despreparados. Recomendo.",negative,atendimento,2026-09-15
+"Resumindo: Atendimento nota dez, resolveram na hora. Pretendo comprar de novo.",positive,atendimento,2026-10-15
+"Olha, Entrega rápida e embalagem perfeita. No geral é isso.",positive,entrega,2026-10-15
+"Sinceramente, Equipe educada e prestativa. No geral é isso.",neutral,atendimento,2026-10-15
+"Olha, Não consigo logar no app de jeito nenhum. Foi minha experiência.",negative,app,2026-10-15
+"Sinceramente, Veio com a caixa toda amassada. Pretendo comprar de novo.",negative,entrega,2026-10-15
+Paguei muito e esperava mais. Fica o registro.,negative,preço,2026-10-15
+"Recebi no dia seguinte, adorei. Recomendo.",positive,entrega,2026-10-15
+Adorei a nova versão do app. No geral é isso.,positive,app,2026-10-15
+"Produto comum, funciona.",neutral,qualidade,2026-10-15
+"Olha, Atendimento nota dez, resolveram na hora.",positive,atendimento,2026-10-15
+"Resumindo: Fui atendido, sem problemas nem elogios. Recomendo.",neutral,atendimento,2026-10-15
+Resumindo: Equipe educada e prestativa. Fica o registro.,positive,atendimento,2026-10-15
+"Atendimento nota dez, resolveram na hora. No geral é isso.",positive,atendimento,2026-10-15
+"Olha, Atendentes grosseiros e despreparados. Recomendo.",negative,atendimento,2026-10-15
+"Olha, O app funciona, interface comum. Fica o registro.",neutral,app,2026-10-15
+Resumindo: Caro demais para o que oferece.,negative,preço,2026-10-15
+"Sinceramente, Preço excelente pelo que entrega. Recomendo.",positive,preço,2026-10-15
+Resumindo: O produto é como na descrição. Pretendo comprar de novo.,neutral,qualidade,2026-10-15
+"Sinceramente, Recebi no dia seguinte, adorei. No geral é isso.",positive,entrega,2026-10-15
+"Olha, Adorei a nova versão do app.",positive,app,2026-10-15
+Resumindo: Adorei a nova versão do app. Pretendo comprar de novo.,positive,app,2026-10-15
+O preço está na média do mercado. Pretendo comprar de novo.,neutral,preço,2026-10-15
+Muito barato para a qualidade. Pretendo comprar de novo.,positive,preço,2026-10-15
+Resumindo: Entrega rápida e embalagem perfeita.,positive,entrega,2026-10-15
+Resumindo: App sem novidades nesta versão.,neutral,app,2026-10-15
+Resumindo: Adorei a nova versão do app. Pretendo comprar de novo.,positive,app,2026-10-15
+O app é rápido e intuitivo.,positive,app,2026-10-15
+Adorei a nova versão do app. No geral é isso.,positive,app,2026-10-15
+Resumindo: Chegou na data prevista. Fica o registro.,neutral,entrega,2026-10-15
+"Sinceramente, Equipe educada e prestativa. No geral é isso.",positive,atendimento,2026-10-15
+"Sinceramente, Entrega rápida e embalagem perfeita. No geral é isso.",positive,entrega,2026-10-15
+"Olha, Adorei a nova versão do app. Foi minha experiência.",positive,app,2026-10-15
+"Olha, O suporte foi super atencioso. Pretendo comprar de novo.",positive,atendimento,2026-10-15
+"Olha, Valor razoável, nada demais.",neutral,preço,2026-10-15
+"Sinceramente, Recebi no dia seguinte, adorei. No geral é isso.",positive,entrega,2026-11-15
+Resumindo: Paguei muito e esperava mais. Recomendo.,negative,preço,2026-11-15
+"Resumindo: Valor razoável, nada demais. No geral é isso.",neutral,preço,2026-11-15
+"Sinceramente, O suporte foi super atencioso. No geral é isso.",positive,atendimento,2026-11-15
+O preço está na média do mercado. Recomendo.,neutral,preço,2026-11-15
+"Atendimento nota dez, resolveram na hora. No geral é isso.",positive,atendimento,2026-11-15
+"Sinceramente, Material fraco, parece de brinquedo.",negative,qualidade,2026-11-15
+"Olha, App sem novidades nesta versão. Recomendo.",neutral,app,2026-11-15
+"Resumindo: Aplicativo simples, faz o que promete. Foi minha experiência.",neutral,app,2026-11-15
+Aplicativo muito fácil de usar. Recomendo.,positive,app,2026-11-15
+"Olha, O produto é como na descrição.",neutral,qualidade,2026-11-15
+"Fui atendido, sem problemas nem elogios.",neutral,atendimento,2026-11-15
+Atendimento padrão. Pretendo comprar de novo.,neutral,atendimento,2026-11-15
+"Sinceramente, Adorei a nova versão do app. Fica o registro.",positive,app,2026-11-15
+Resumindo: Adorei a nova versão do app. No geral é isso.,positive,app,2026-11-15
+"Qualidade mediana, cumpre o básico. Recomendo.",neutral,qualidade,2026-11-15
+Atendimento padrão. No geral é isso.,neutral,atendimento,2026-11-15
+App sem novidades nesta versão. No geral é isso.,neutral,app,2026-11-15
+"Sinceramente, O app trava toda hora. Foi minha experiência.",negative,app,2026-11-15
+A entrega ocorreu dentro do prazo informado.,neutral,entrega,2026-11-15
+Equipe educada e prestativa. Pretendo comprar de novo.,positive,atendimento,2026-11-15
+Atendentes grosseiros e despreparados.,negative,atendimento,2026-11-15
+"Sinceramente, Adorei a nova versão do app. No geral é isso.",positive,app,2026-11-15
+"Resumindo: Valor razoável, nada demais. Pretendo comprar de novo.",neutral,preço,2026-11-15
+Quebrou na primeira semana. Recomendo.,negative,qualidade,2026-11-15
+"Olha, Preço abusivo, não compensa. Fica o registro.",negative,preço,2026-11-15
+"Olha, O suporte foi super atencioso. Foi minha experiência.",positive,atendimento,2026-11-15
+Resumindo: Acabamento impecável. No geral é isso.,positive,qualidade,2026-11-15
+"Olha, Valeu cada centavo, ótimo custo-benefício.",positive,preço,2026-11-15
+"Sinceramente, Atendimento horrível, ninguém resolve nada.",negative,atendimento,2026-11-15
+"Olha, Quebrou na primeira semana.",negative,qualidade,2026-11-15
+Adorei a nova versão do app. Pretendo comprar de novo.,positive,app,2026-11-15
+"Sinceramente, Muito barato para a qualidade. Fica o registro.",positive,preço,2026-11-15
+Resumindo: Preço excelente pelo que entrega. No geral é isso.,positive,preço,2026-12-15
+O suporte respondeu em um dia útil. Recomendo.,neutral,atendimento,2026-12-15
+Entrega absurdamente demorada. Pretendo comprar de novo.,negative,entrega,2026-12-15
+Veio com a caixa toda amassada. Foi minha experiência.,negative,entrega,2026-12-15
+"Sinceramente, Veio com a caixa toda amassada.",negative,entrega,2026-12-15
+"Material fraco, parece de brinquedo. Pretendo comprar de novo.",negative,qualidade,2026-12-15
+Resumindo: Muito bem feito e resistente. No geral é isso.,positive,qualidade,2026-12-15
+"Sinceramente, Preço abusivo, não compensa.",negative,preço,2026-12-15
+"Sinceramente, Muito bem feito e resistente. Recomendo.",positive,qualidade,2026-12-15
+"Olha, Entrega absurdamente demorada. Fica o registro.",negative,entrega,2026-12-15
+"Sinceramente, Preço abusivo, não compensa. Pretendo comprar de novo.",negative,preço,2026-12-15
+"Atendimento horrível, ninguém resolve nada. No geral é isso.",negative,atendimento,2026-12-15
+"Sinceramente, Preço excelente pelo que entrega. No geral é isso.",positive,preço,2026-12-15
+"Resumindo: Produto de ótima qualidade, superou expectativas. Recomendo.",positive,qualidade,2026-12-15
+Muito barato para a qualidade. Recomendo.,positive,preço,2026-12-15
+"Olha, Não consigo logar no app de jeito nenhum.",negative,app,2026-12-15
+"Produto de ótima qualidade, superou expectativas.",positive,qualidade,2026-12-15
+Resumindo: Fui ignorado pelo suporte por dias. No geral é isso.,negative,atendimento,2026-12-15
+"Atendimento horrível, ninguém resolve nada. Fica o registro.",negative,atendimento,2026-12-15
+"Resumindo: Entrega normal, sem novidades. Recomendo.",neutral,entrega,2026-12-15
+Resumindo: Adorei a nova versão do app.,positive,app,2026-12-15
+Resumindo: Muito barato para a qualidade.,positive,preço,2026-12-15
+"Resumindo: Aplicativo simples, faz o que promete. Foi minha experiência.",neutral,app,2026-12-15
+"Sinceramente, Preço igual ao das outras lojas.",neutral,preço,2026-12-15
+"Sinceramente, Material fraco, parece de brinquedo. Foi minha experiência.",positive,qualidade,2026-12-15
+"Sinceramente, Aplicativo muito fácil de usar. Fica o registro.",positive,app,2026-12-15
+Veio com a caixa toda amassada.,negative,entrega,2026-12-15
+"Sinceramente, Preço abusivo, não compensa. No geral é isso.",negative,preço,2026-12-15
+"Resumindo: Atendimento nota dez, resolveram na hora. Fica o registro.",positive,atendimento,2026-12-15
+Resumindo: Entrega rápida e embalagem perfeita. Pretendo comprar de novo.,positive,entrega,2026-12-15
+"Preço abusivo, não compensa. No geral é isso.",negative,preço,2026-12-15
+"Sinceramente, O app funciona, interface comum.",neutral,app,2026-12-15
+Preço excelente pelo que entrega. Foi minha experiência.,positive,preço,2026-12-15
